@@ -1,4 +1,4 @@
-# Tor-Downloader-App
+# Trantor-Downloader-App
 
 Parse and download books from Imperial Library of Trantor.
 
